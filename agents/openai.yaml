@@ -1,0 +1,3 @@
+interface:
+  display_name: "DLow 图片与 GIF"
+  short_description: "通过 DLow API 生成图片或动态 GIF，缺少密钥时询问用户。"
